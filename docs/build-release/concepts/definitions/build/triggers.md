@@ -127,7 +127,7 @@ Otherwise, you can clear this check box and specify the paths in the trigger.
 
 ### How it affects your developers
 
-When a developers try to check-in, they are prompted to build their changes.
+When developers try to check-in, they are prompted to build their changes.
 
 ![Gated check-in prompt](_img/triggers/tfvc-gated-check-in-prompt.png)
 
